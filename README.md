@@ -1,2 +1,7 @@
-# Covid-19-prediction-app
-a stream lit deployment app for covid-19 prediction
+title: {{Corona Virus Prediction App}}
+emoji: {{emoji}}
+colorFrom: {{Blue}}
+colorTo: {{Red}}
+sdk: {{streamlit}}
+sdk_version: {{streamlit==1.28.1}}
+app_file: splean.py
